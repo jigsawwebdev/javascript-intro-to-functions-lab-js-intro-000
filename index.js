@@ -22,3 +22,11 @@ function logWhisper(string) {
   console.log(string)
 }
 logWhisper('hello')
+
+
+function sayHiToGrandma(string) {
+  string.toLowerCase === lowercase
+  return("I can\'t hear you!")
+}
+
+sayHiToGrandma('hello')
